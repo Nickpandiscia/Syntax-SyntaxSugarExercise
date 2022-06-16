@@ -1,0 +1,15 @@
+C:\Users\npand\repos\SyntaxandSyntaxSugarExercise\SyntaxandSyntaxSugarExercise\bin\Debug\net6.0\SyntaxandSyntaxSugarExercise.exe
+C:\Users\npand\repos\SyntaxandSyntaxSugarExercise\SyntaxandSyntaxSugarExercise\bin\Debug\net6.0\SyntaxandSyntaxSugarExercise.deps.json
+C:\Users\npand\repos\SyntaxandSyntaxSugarExercise\SyntaxandSyntaxSugarExercise\bin\Debug\net6.0\SyntaxandSyntaxSugarExercise.runtimeconfig.json
+C:\Users\npand\repos\SyntaxandSyntaxSugarExercise\SyntaxandSyntaxSugarExercise\bin\Debug\net6.0\SyntaxandSyntaxSugarExercise.dll
+C:\Users\npand\repos\SyntaxandSyntaxSugarExercise\SyntaxandSyntaxSugarExercise\bin\Debug\net6.0\ref\SyntaxandSyntaxSugarExercise.dll
+C:\Users\npand\repos\SyntaxandSyntaxSugarExercise\SyntaxandSyntaxSugarExercise\bin\Debug\net6.0\SyntaxandSyntaxSugarExercise.pdb
+C:\Users\npand\repos\SyntaxandSyntaxSugarExercise\SyntaxandSyntaxSugarExercise\obj\Debug\net6.0\SyntaxandSyntaxSugarExercise.csproj.AssemblyReference.cache
+C:\Users\npand\repos\SyntaxandSyntaxSugarExercise\SyntaxandSyntaxSugarExercise\obj\Debug\net6.0\SyntaxandSyntaxSugarExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\npand\repos\SyntaxandSyntaxSugarExercise\SyntaxandSyntaxSugarExercise\obj\Debug\net6.0\SyntaxandSyntaxSugarExercise.AssemblyInfoInputs.cache
+C:\Users\npand\repos\SyntaxandSyntaxSugarExercise\SyntaxandSyntaxSugarExercise\obj\Debug\net6.0\SyntaxandSyntaxSugarExercise.AssemblyInfo.cs
+C:\Users\npand\repos\SyntaxandSyntaxSugarExercise\SyntaxandSyntaxSugarExercise\obj\Debug\net6.0\SyntaxandSyntaxSugarExercise.csproj.CoreCompileInputs.cache
+C:\Users\npand\repos\SyntaxandSyntaxSugarExercise\SyntaxandSyntaxSugarExercise\obj\Debug\net6.0\SyntaxandSyntaxSugarExercise.dll
+C:\Users\npand\repos\SyntaxandSyntaxSugarExercise\SyntaxandSyntaxSugarExercise\obj\Debug\net6.0\ref\SyntaxandSyntaxSugarExercise.dll
+C:\Users\npand\repos\SyntaxandSyntaxSugarExercise\SyntaxandSyntaxSugarExercise\obj\Debug\net6.0\SyntaxandSyntaxSugarExercise.pdb
+C:\Users\npand\repos\SyntaxandSyntaxSugarExercise\SyntaxandSyntaxSugarExercise\obj\Debug\net6.0\SyntaxandSyntaxSugarExercise.genruntimeconfig.cache
